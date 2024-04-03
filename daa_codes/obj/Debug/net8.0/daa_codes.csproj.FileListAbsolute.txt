@@ -1,0 +1,14 @@
+C:\Users\ACER\Downloads\DAA\C#_Codes\daa_codes\bin\Debug\net8.0\daa_codes.exe
+C:\Users\ACER\Downloads\DAA\C#_Codes\daa_codes\bin\Debug\net8.0\daa_codes.deps.json
+C:\Users\ACER\Downloads\DAA\C#_Codes\daa_codes\bin\Debug\net8.0\daa_codes.runtimeconfig.json
+C:\Users\ACER\Downloads\DAA\C#_Codes\daa_codes\bin\Debug\net8.0\daa_codes.dll
+C:\Users\ACER\Downloads\DAA\C#_Codes\daa_codes\bin\Debug\net8.0\daa_codes.pdb
+C:\Users\ACER\Downloads\DAA\C#_Codes\daa_codes\obj\Debug\net8.0\daa_codes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Downloads\DAA\C#_Codes\daa_codes\obj\Debug\net8.0\daa_codes.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\DAA\C#_Codes\daa_codes\obj\Debug\net8.0\daa_codes.AssemblyInfo.cs
+C:\Users\ACER\Downloads\DAA\C#_Codes\daa_codes\obj\Debug\net8.0\daa_codes.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\DAA\C#_Codes\daa_codes\obj\Debug\net8.0\daa_codes.dll
+C:\Users\ACER\Downloads\DAA\C#_Codes\daa_codes\obj\Debug\net8.0\refint\daa_codes.dll
+C:\Users\ACER\Downloads\DAA\C#_Codes\daa_codes\obj\Debug\net8.0\daa_codes.pdb
+C:\Users\ACER\Downloads\DAA\C#_Codes\daa_codes\obj\Debug\net8.0\daa_codes.genruntimeconfig.cache
+C:\Users\ACER\Downloads\DAA\C#_Codes\daa_codes\obj\Debug\net8.0\ref\daa_codes.dll

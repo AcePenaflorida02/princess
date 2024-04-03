@@ -1,0 +1,14 @@
+C:\Users\ACER\Downloads\DAA\C#_Codes\trials\bin\Debug\net8.0\trials.exe
+C:\Users\ACER\Downloads\DAA\C#_Codes\trials\bin\Debug\net8.0\trials.deps.json
+C:\Users\ACER\Downloads\DAA\C#_Codes\trials\bin\Debug\net8.0\trials.runtimeconfig.json
+C:\Users\ACER\Downloads\DAA\C#_Codes\trials\bin\Debug\net8.0\trials.dll
+C:\Users\ACER\Downloads\DAA\C#_Codes\trials\bin\Debug\net8.0\trials.pdb
+C:\Users\ACER\Downloads\DAA\C#_Codes\trials\obj\Debug\net8.0\trials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Downloads\DAA\C#_Codes\trials\obj\Debug\net8.0\trials.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\DAA\C#_Codes\trials\obj\Debug\net8.0\trials.AssemblyInfo.cs
+C:\Users\ACER\Downloads\DAA\C#_Codes\trials\obj\Debug\net8.0\trials.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\DAA\C#_Codes\trials\obj\Debug\net8.0\trials.dll
+C:\Users\ACER\Downloads\DAA\C#_Codes\trials\obj\Debug\net8.0\refint\trials.dll
+C:\Users\ACER\Downloads\DAA\C#_Codes\trials\obj\Debug\net8.0\trials.pdb
+C:\Users\ACER\Downloads\DAA\C#_Codes\trials\obj\Debug\net8.0\trials.genruntimeconfig.cache
+C:\Users\ACER\Downloads\DAA\C#_Codes\trials\obj\Debug\net8.0\ref\trials.dll

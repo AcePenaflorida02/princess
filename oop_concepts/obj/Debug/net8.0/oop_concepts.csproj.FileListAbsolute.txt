@@ -1,0 +1,14 @@
+C:\Users\ACER\Downloads\DAA\C#_Codes\oop_concepts\bin\Debug\net8.0\oop_concepts.exe
+C:\Users\ACER\Downloads\DAA\C#_Codes\oop_concepts\bin\Debug\net8.0\oop_concepts.deps.json
+C:\Users\ACER\Downloads\DAA\C#_Codes\oop_concepts\bin\Debug\net8.0\oop_concepts.runtimeconfig.json
+C:\Users\ACER\Downloads\DAA\C#_Codes\oop_concepts\bin\Debug\net8.0\oop_concepts.dll
+C:\Users\ACER\Downloads\DAA\C#_Codes\oop_concepts\bin\Debug\net8.0\oop_concepts.pdb
+C:\Users\ACER\Downloads\DAA\C#_Codes\oop_concepts\obj\Debug\net8.0\oop_concepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Downloads\DAA\C#_Codes\oop_concepts\obj\Debug\net8.0\oop_concepts.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\DAA\C#_Codes\oop_concepts\obj\Debug\net8.0\oop_concepts.AssemblyInfo.cs
+C:\Users\ACER\Downloads\DAA\C#_Codes\oop_concepts\obj\Debug\net8.0\oop_concepts.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\DAA\C#_Codes\oop_concepts\obj\Debug\net8.0\oop_concepts.dll
+C:\Users\ACER\Downloads\DAA\C#_Codes\oop_concepts\obj\Debug\net8.0\refint\oop_concepts.dll
+C:\Users\ACER\Downloads\DAA\C#_Codes\oop_concepts\obj\Debug\net8.0\oop_concepts.pdb
+C:\Users\ACER\Downloads\DAA\C#_Codes\oop_concepts\obj\Debug\net8.0\oop_concepts.genruntimeconfig.cache
+C:\Users\ACER\Downloads\DAA\C#_Codes\oop_concepts\obj\Debug\net8.0\ref\oop_concepts.dll
